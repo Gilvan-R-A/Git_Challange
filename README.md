@@ -1,4 +1,8 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+<h1 align="center">
+   Desafio de Projeto sobre Git/GitHub da DIO
+</h1>
+
+
 Repositório criado para o Desafio de Projeto da Digital Innovation One para aprender sobre git executando os passos para criar, atualizar e sincronizar repositórios no github.
 
 ## Links Úteis

@@ -1,9 +1,9 @@
 <h1 align="center">
-   Desafio de Projeto sobre Git/GitHub da DIO
+   Git_Challange
 </h1>
 
+Desafio de Projeto **Git** da Digital Innovation One para criar, atualizar e sincronizar repositórios no **GitHub**.
 
-Repositório criado para o Desafio de Projeto da Digital Innovation One para aprender sobre git executando os passos para criar, atualizar e sincronizar repositórios no github.
 
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)   
